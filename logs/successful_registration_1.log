@@ -1,0 +1,21 @@
+[INFO ] 2021-07-31 11:57:51.249 - util.MyLogger:startTestCase 21==>  
+
+************** Execution Started : successful_registration**************
+
+[INFO ] 2021-07-31 11:57:51.261 - nitroExecution.NitroHooks:setPropertyFile 36==>  successful registration
+[INFO ] 2021-07-31 11:58:28.351 - keywordsLibrary.UserAction:click 42==>  user inputs value in  //*[contains(text(),'Register')]
+[INFO ] 2021-07-31 11:58:31.561 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.firstName
+[INFO ] 2021-07-31 11:58:31.761 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.lastName
+[INFO ] 2021-07-31 11:58:31.918 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.address.street
+[INFO ] 2021-07-31 11:58:32.115 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.address.city
+[INFO ] 2021-07-31 11:58:32.281 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.address.state
+[INFO ] 2021-07-31 11:58:32.451 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.address.zipCode
+[INFO ] 2021-07-31 11:58:32.614 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.phoneNumber
+[INFO ] 2021-07-31 11:58:32.789 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.ssn
+[INFO ] 2021-07-31 11:58:33.018 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.username
+[INFO ] 2021-07-31 11:58:33.145 - keywordsLibrary.UserAction:input 27==>  user inputs value in  customer.password
+[INFO ] 2021-07-31 11:58:33.303 - keywordsLibrary.UserAction:input 27==>  user inputs value in  repeatedPassword
+[INFO ] 2021-07-31 11:58:33.639 - util.MyLogger:endTestCase 28==>  
+
+************** Execution End : successful registration**************
+

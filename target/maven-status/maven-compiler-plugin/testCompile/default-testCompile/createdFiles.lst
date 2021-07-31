@@ -1,0 +1,6 @@
+nitroPages\advancedAnalyticsPage\LoginPage.class
+nitroExecution\TestRunner.class
+nitroPages\personaPages\RegistrationPage.class
+nitroTests\personaTests\RegistrationTests.class
+nitroTests\advancedAnalyticsTests\LoginTests.class
+nitroExecution\NitroHooks.class

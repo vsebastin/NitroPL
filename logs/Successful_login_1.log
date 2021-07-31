@@ -1,0 +1,13 @@
+[INFO ] 2021-07-31 11:57:51.193 - util.MyLogger:startTestCase 21==>  
+
+************** Execution Started : Successful_login**************
+
+[INFO ] 2021-07-31 11:57:51.231 - nitroExecution.NitroHooks:setPropertyFile 36==>  Successful login
+[INFO ] 2021-07-31 11:58:23.225 - nitroTests.advancedAnalyticsTests.LoginTests:user_input_valid_credentials 69==>  input credentials test
+[INFO ] 2021-07-31 11:58:23.232 - keywordsLibrary.UserAction:input 27==>  user inputs value in  username
+[INFO ] 2021-07-31 11:58:23.695 - keywordsLibrary.UserAction:input 27==>  user inputs value in  password
+[INFO ] 2021-07-31 11:58:23.963 - keywordsLibrary.UserAction:click 42==>  user inputs value in  //*[@id="loginPanel"]/form/div[3]/input
+[INFO ] 2021-07-31 11:58:29.014 - util.MyLogger:endTestCase 28==>  
+
+************** Execution End : Successful login**************
+

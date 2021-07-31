@@ -1,0 +1,9 @@
+[INFO ] 2021-07-31 11:57:51.233 - util.MyLogger:startTestCase 21==>  
+
+************** Execution Started : Loan_application_page**************
+
+[INFO ] 2021-07-31 11:57:51.246 - nitroExecution.NitroHooks:setPropertyFile 36==>  Loan application page
+[INFO ] 2021-07-31 11:58:23.635 - util.MyLogger:endTestCase 28==>  
+
+************** Execution End : Loan application page**************
+
